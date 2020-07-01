@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepak.Web", "Nepak.Web\Nepak.Web.csproj", "{879F7831-9DB9-4B97-B4CA-C28A1E9B7718}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepak.Datalayer", "Nepak.Datalayer\Nepak.Datalayer.csproj", "{A3157631-E6A5-47F8-93B1-8A670B2BF3AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepak.Core", "Nepak.Core\Nepak.Core.csproj", "{DB82CFB5-31B9-4CB6-BA7A-4012BE6A78A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{879F7831-9DB9-4B97-B4CA-C28A1E9B7718}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{879F7831-9DB9-4B97-B4CA-C28A1E9B7718}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{879F7831-9DB9-4B97-B4CA-C28A1E9B7718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3157631-E6A5-47F8-93B1-8A670B2BF3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3157631-E6A5-47F8-93B1-8A670B2BF3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3157631-E6A5-47F8-93B1-8A670B2BF3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3157631-E6A5-47F8-93B1-8A670B2BF3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB82CFB5-31B9-4CB6-BA7A-4012BE6A78A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB82CFB5-31B9-4CB6-BA7A-4012BE6A78A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB82CFB5-31B9-4CB6-BA7A-4012BE6A78A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB82CFB5-31B9-4CB6-BA7A-4012BE6A78A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
