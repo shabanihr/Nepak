@@ -15,4 +15,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Nepak.Core\Nepak.Core.csproj" />
+    <ProjectReference Include="..\Nepak.Datalayer\Nepak.Datalayer.csproj" />
+  </ItemGroup>
+
 </Project>
